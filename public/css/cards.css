@@ -1,0 +1,11 @@
+.card{
+    height:80px;width: 80px;float: left;border: 1px solid grey;padding: 10px;
+}
+.droppable{
+    width: 100px;
+    height: 150px;
+    border: 1px solid red;
+    float: left;
+    padding: 10px
+}
+
